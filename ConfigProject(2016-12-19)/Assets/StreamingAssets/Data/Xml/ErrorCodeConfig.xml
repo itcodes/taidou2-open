@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--用XMLSpy v2013 sp1产生的 XML文件(http://www.altova.com)-->
+<ErrorCodeConfig xsi:noNamespaceSchemaLocation="ErrorCodeConfig.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Content Id="10000" Desc="账号密码不匹配" Local="0"/>
+	<Content Id="10001" Desc="账号已经被使用" Local="0"/>
+	<Content Id="10002" Desc="String" Local="0"/>
+	<Content Id="10003" Desc="String" Local="0"/>
+	<Content Id="10004" Desc="String" Local="0"/>
+	<Content Id="10005" Desc="String" Local="0"/>
+	<Content Id="10006" Desc="String" Local="0"/>
+</ErrorCodeConfig>

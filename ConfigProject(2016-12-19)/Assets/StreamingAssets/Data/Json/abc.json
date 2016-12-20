@@ -1,0 +1,25 @@
+﻿{
+    "name": "JSON中国",
+    "url": "http://www.json.org.cn",
+    "page": 88,
+    "isNonProfit": true,
+    "address": {
+        "street": "浙大路38号.",
+        "city": "浙江杭州",
+        "country": "中国"
+    },
+    "links": [
+        {
+            "name": "Google",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "Baidu",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "SoSo",
+            "url": "http://www.SoSo.com"
+        }
+    ]
+}
